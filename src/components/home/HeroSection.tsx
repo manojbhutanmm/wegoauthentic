@@ -22,12 +22,12 @@ const slides: Slide[] = [
   },
   {
     id: 2,
-    image: '/images/slides/bhutan-3.jpg',
+    image: '/images/slides/bhutan-3.png',
     alt: "Bhutan Mountains"
   },
   {
     id: 3,
-    image: '/images/slides/bhutan-4.jpg',
+    image: '/images/slides/bhutan-4.png',
     alt: "Bhutan Cultural Experience"
   },
 ];
